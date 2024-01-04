@@ -1,0 +1,6 @@
+core java concepts
+oops
+exception handling
+multi-threading
+strings
+arrays
